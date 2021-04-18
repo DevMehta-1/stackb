@@ -21,8 +21,8 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "dist/angular-first-app",
-            "index": "src/index.html",
-            "main": "src/main.ts",
+            "index": "stackb/src/index.html",
+            "main": "stackbsrc/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "aot": true,
